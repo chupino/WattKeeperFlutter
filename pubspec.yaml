@@ -10,7 +10,8 @@ dependencies:
   flutter:
     sdk: flutter 
   salomon_bottom_bar: ^3.3.2
-  shared_preferences: ^2.2.1
+  firebase_core: ^2.16.0
+  shared_preferences: ^2.2.0
   get: ^4.6.6
   font_awesome_flutter: ^10.5.0
   easy_stepper: ^0.8.1
